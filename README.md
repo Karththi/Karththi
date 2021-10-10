@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karthiga Sivapiragasam
 - 🌱 I’m currently undergraduate at University of Moratuwa.
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Web Development,Mobile Development and Data Science.
 - 📫 How to reach me : https://www.linkedin.com/in/karthiga-sivapiragasam/
 
 <!---
